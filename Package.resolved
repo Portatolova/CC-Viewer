@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "FloatingLabelTextFieldSwiftUI",
+        "repositoryURL": "https://github.com/kishanraja/FloatingLabelTextFieldSwiftUI",
+        "state": {
+          "branch": null,
+          "revision": "b9aab8fa5f13474180274cfb7022357e8461b838",
+          "version": "4.2.1"
+        }
+      },
+      {
+        "package": "MaterialDesignSymbol",
+        "repositoryURL": "https://github.com/tichise/MaterialDesignSymbol.git",
+        "state": {
+          "branch": null,
+          "revision": "f23383b783502360498259e8a3bc6d19a292b4b3",
+          "version": "2.8.5"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
